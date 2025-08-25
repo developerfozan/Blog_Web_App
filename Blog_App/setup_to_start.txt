@@ -1,0 +1,13 @@
+go to terminal and install this
+
+step 1:
+npm create vite@latest
+
+step 2:
+cd your project_name
+
+step 3:
+npm install
+
+step 4 add more depandencies for special this project:
+npm install @reduxjs/toolkit react-router-dom react-redux appwrite @tinymce/tinymce-react html-react-parser react-hook-form
